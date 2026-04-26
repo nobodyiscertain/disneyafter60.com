@@ -900,6 +900,23 @@ main { display: block; }
   transition: border-color 200ms ease;
 }
 
+.field-group select {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  padding-right: 44px;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='14' height='8' viewBox='0 0 14 8'><path d='M1 1l6 6 6-6' stroke='%23d4a64a' stroke-width='1.5' fill='none'/></svg>");
+  background-repeat: no-repeat;
+  background-position: right 18px center;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.field-group select option {
+  background: var(--bg);
+  color: var(--ink);
+}
+
 .field-group input:focus,
 .field-group textarea:focus,
 .field-group select:focus {
