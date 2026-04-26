@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://disneyafter60.com/</loc>
-    <lastmod>2026-04-26</lastmod>
-  </url>
-  <url>
-    <loc>https://disneyafter60.com/about</loc>
-    <lastmod>2026-04-26</lastmod>
-  </url>
-  <url>
-    <loc>https://disneyafter60.com/contact</loc>
-    <lastmod>2026-04-26</lastmod>
-  </url>
+  <url><loc>https://disneyafter60.com/</loc><lastmod>2026-04-26</lastmod></url>
+  <url><loc>https://disneyafter60.com/meet-di</loc><lastmod>2026-04-26</lastmod></url>
+  <url><loc>https://disneyafter60.com/insights</loc><lastmod>2026-04-26</lastmod></url>
+  <url><loc>https://disneyafter60.com/events-news</loc><lastmod>2026-04-26</lastmod></url>
+  <url><loc>https://disneyafter60.com/gallery</loc><lastmod>2026-04-26</lastmod></url>
+  <url><loc>https://disneyafter60.com/contact</loc><lastmod>2026-04-26</lastmod></url>
+  <url><loc>https://disneyafter60.com/insights/disney-after-60</loc><lastmod>2025-09-15</lastmod></url>
+  <url><loc>https://disneyafter60.com/insights/disney-after-60-not-just-parks</loc><lastmod>2025-09-15</lastmod></url>
+  <url><loc>https://disneyafter60.com/insights/disney-after-60-choosing-the-right-resort-for-a-stress-free-stay</loc><lastmod>2025-09-15</lastmod></url>
+  <url><loc>https://disneyafter60.com/insights/to-scoot-or-not-to-scoot</loc><lastmod>2025-09-19</lastmod></url>
+  <url><loc>https://disneyafter60.com/insights/rent-the-scooter</loc><lastmod>2025-10-20</lastmod></url>
+  <url><loc>https://disneyafter60.com/insights/disney-s-all-star-music-hits-the-right-note-for-the-disney-after-60-traveler</loc><lastmod>2025-10-31</lastmod></url>
+  <url><loc>https://disneyafter60.com/insights/2026-disney-gift-card-hack</loc><lastmod>2026-01-14</lastmod></url>
+  <url><loc>https://disneyafter60.com/insights/making-memories-not-sweat-grandparents-guide-to-a-cool-kids-summer-at-walt-disney-world</loc><lastmod>2026-02-09</lastmod></url>
+  <url><loc>https://disneyafter60.com/insights/trading-crowds-for-calm-is-club-level-worth-it</loc><lastmod>2026-03-04</lastmod></url>
 </urlset>
